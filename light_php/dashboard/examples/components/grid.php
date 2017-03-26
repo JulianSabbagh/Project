@@ -75,8 +75,8 @@
 	                    </a>
                         <div class="collapse" id="dashboardOverview">
 							<ul class="nav">
-								<li><a href="../dashboard/overview.html">Overview</a></li>
-								<li><a href="../dashboard/stats.html">Stats</a></li>
+								<li><a href="../dashboard/overview.php">Overview</a></li>
+								<li><a href="../dashboard/stats.php">Stats</a></li>
 							</ul>
 						</div>
 	                </li>
@@ -89,13 +89,13 @@
 	                    </a>
 	                    <div class="collapse in" id="componentsExamples">
 	                        <ul class="nav">
-	                            <li><a href="buttons.html">Buttons</a></li>
-	                            <li class="active"><a href="grid.html">Grid System</a></li>
-	                            <li><a href="panels.html">Panels</a></li>
-	                            <li><a href="sweet-alert.html">Sweet Alert</a></li>
-	                            <li><a href="notifications.html">Notifications</a></li>
-	                            <li><a href="icons.html">Icons</a></li>
-	                            <li><a href="typography.html">Typography</a></li>
+	                            <li><a href="buttons.php">Buttons</a></li>
+	                            <li class="active"><a href="grid.php">Grid System</a></li>
+	                            <li><a href="panels.php">Panels</a></li>
+	                            <li><a href="sweet-alert.php">Sweet Alert</a></li>
+	                            <li><a href="notifications.php">Notifications</a></li>
+	                            <li><a href="icons.php">Icons</a></li>
+	                            <li><a href="typography.php">Typography</a></li>
 	                        </ul>
 	                    </div>
 	                </li>
@@ -109,10 +109,10 @@
 	                    </a>
 	                    <div class="collapse" id="formsExamples">
 	                        <ul class="nav">
-								<li><a href="../forms/regular.html">Regular Forms</a></li>
-								<li><a href="../forms/extended.html">Extended Forms</a></li>
-								<li><a href="../forms/validation.html">Validation Forms</a></li>
-	                            <li><a href="../forms/wizard.html">Wizard</a></li>
+								<li><a href="../forms/regular.php">Regular Forms</a></li>
+								<li><a href="../forms/extended.php">Extended Forms</a></li>
+								<li><a href="../forms/validation.php">Validation Forms</a></li>
+	                            <li><a href="../forms/wizard.php">Wizard</a></li>
 	                        </ul>
 	                    </div>
 	                </li>
@@ -126,10 +126,10 @@
 	                    </a>
 	                    <div class="collapse" id="tablesExamples">
 	                        <ul class="nav">
-								<li><a href="../tables/regular.html">Regular Tables</a></li>
-								<li><a href="../tables/extended.html">Extended Tables</a></li>
-								<li><a href="../tables/bootstrap-table.html">Bootstrap Table</a></li>
-								<li><a href="../tables/datatables.net.html">DataTables.net</a></li>
+								<li><a href="../tables/regular.php">Regular Tables</a></li>
+								<li><a href="../tables/extended.php">Extended Tables</a></li>
+								<li><a href="../tables/bootstrap-table.php">Bootstrap Table</a></li>
+								<li><a href="../tables/datatables.net.php">DataTables.net</a></li>
 	                        </ul>
 	                    </div>
 	                </li>
@@ -143,20 +143,20 @@
 	                    </a>
 	                    <div class="collapse" id="mapsExamples">
 	                        <ul class="nav">
-								<li><a href="../maps/google.html">Google Maps</a></li>
-								<li><a href="../maps/vector.html">Vector maps</a></li>
-								<li><a href="../maps/fullscreen.html">Full Screen Map</a></li>
+								<li><a href="../maps/google.php">Google Maps</a></li>
+								<li><a href="../maps/vector.php">Vector maps</a></li>
+								<li><a href="../maps/fullscreen.php">Full Screen Map</a></li>
 	                        </ul>
 	                    </div>
 	                </li>
 	                <li>
-	                    <a href="../charts.html">
+	                    <a href="../charts.php">
 	                        <i class="ti-bar-chart-alt"></i>
 	                        <p>Charts</p>
 	                    </a>
 	                </li>
 	                <li>
-	                    <a href="../calendar.html">
+	                    <a href="../calendar.php">
 	                        <i class="ti-calendar"></i>
 	                        <p>Calendar</p>
 	                    </a>
@@ -171,11 +171,11 @@
 	                    </a>
 	                    <div class="collapse" id="pagesExamples">
 	                        <ul class="nav">
-								<li><a href="../pages/timeline.html">Timeline Page</a></li>
-								<li><a href="../pages/user.html">User Page</a></li>
-								<li><a href="../pages/login.html">Login Page</a></li>
-								<li><a href="../pages/register.html">Register Page</a></li>
-								<li><a href="../pages/lock.html">Lock Screen Page</a></li>
+								<li><a href="../pages/timeline.php">Timeline Page</a></li>
+								<li><a href="../pages/user.php">User Page</a></li>
+								<li><a href="../pages/login.php">Login Page</a></li>
+								<li><a href="../pages/register.php">Register Page</a></li>
+								<li><a href="../pages/lock.php">Lock Screen Page</a></li>
 	                        </ul>
 	                    </div>
 	                </li>

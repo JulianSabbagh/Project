@@ -128,7 +128,7 @@
 	                    </a>
 	                    <div class="collapse" id="mapsExamples">
 	                        <ul class="nav">
-								<li><a href="../maps/google.html">Google Maps</a></li>
+								<li><a href="../maps/google.php"∂>Google Maps</a></li>
 	                        </ul>
 	                    </div>
 	                </li>

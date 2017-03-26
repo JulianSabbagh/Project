@@ -88,7 +88,7 @@
                         <p>
                         Paper Dashboard PRO is a beautiful resource built over Bootstrap to allow you to create powerful and beautiful dashboards. We have redesigned all the usual components in Bootstrap to make it look flat, minimalist and easy to use.
                         <br /><br />
-                            Using the dashboard is very simple, but it does require you to understand basic JavaScript functions. To get the desired effect you will need to integrate JS plugins that take a little bit more effort. Down below we list all the files you need to include inside the application to get going. In the <a href="elements.html">elements page</a>, you can how each element if called and used.
+                            Using the dashboard is very simple, but it does require you to understand basic JavaScript functions. To get the desired effect you will need to integrate JS plugins that take a little bit more effort. Down below we list all the files you need to include inside the application to get going. In the <a href="elements.php">elements page</a>, you can how each element if called and used.
                         </p>
                     </div>
 
@@ -158,15 +158,15 @@
                         ----sass<br>
                         --documentation<br>
                         --examples<br>
-                        ----calendar.html<br>
-                        ----charts.html<br>
+                        ----calendar.php<br>
+                        ----charts.php<br>
                         ----components<br>
                         ----dashboard<br>
                         ----forms<br>
                         ----maps<br>
                         ----pages<br>
                         ----tables<br>
-                        ----start-template.html<br>
+                        ----start-template.php<br>
 
                        </p>
                     </div>
@@ -233,7 +233,7 @@
                         </ul>
                         </p>
                         <p>
-                            For more details regarding the components, go to our <a href="elements.html">elements page</a>.
+                            For more details regarding the components, go to our <a href="elements.php">elements page</a>.
                         </p>
                     </div>
                 </div>
