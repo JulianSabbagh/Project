@@ -60,7 +60,7 @@
                 	<div class="row">
                     	<div class="col-md-8 col-md-offset-2">
                         	<div class="header-text">
-                            	<h2>Wildlife Volunteer Registrations</h2>
+                            	<h2>Wildlife Volunteer Registrationss</h2>
                             	<h4>Select which application you would like to apply for.</h4>
                             	<hr>
                         	</div>
