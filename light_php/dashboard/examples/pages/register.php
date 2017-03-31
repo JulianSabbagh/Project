@@ -1,3 +1,5 @@
+<!---- test updated --->
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -106,7 +108,7 @@ if(isset($_POST["op"])){
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="login.php" class="btn">
-                        Looking to login?
+                        Looking to login??
                     </a>
                 </li>
             </ul>
